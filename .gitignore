@@ -1,0 +1,12 @@
+### OSX ###
+.DS_Store
+
+*.pyc
+__pycache__
+/plots
+*~
+
+
+#sublime
+*.sublime-project
+*.sublime-workspace
